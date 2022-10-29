@@ -15,3 +15,5 @@ I'm a Software Engineer, cloud engineer, and an I.T Technician who currently sch
 
 ---
 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=starburn-hub&show_icons=true&include_all_commits=true&hide_border=true" alt="Bright's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starburn-hub&langs_count=8&layout=compact&hide_border=true" alt="Bright's GitHub stats" /> |
+| ------------- | ------------- |
